@@ -1,0 +1,5 @@
+Unity Editor Version: 2025.1 or later (Unity 6.x)
+Scripting Runtime: .NET 4.x Equivalent
+Input System Package: Installed (for new input system) or use old input handling
+Physics 2D: Included (default)
+WebGL Build Support: Installed (for WebGL builds)
